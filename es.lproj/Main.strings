@@ -1,0 +1,114 @@
+
+/* Class = "UIButton"; normalTitle = "Svenska"; ObjectID = "0z4-NR-QaS"; */
+"0z4-NR-QaS.normalTitle" = "Svenska";
+
+/* Class = "UILabel"; text = "RMobile"; ObjectID = "4m0-Re-NyT"; */
+"4m0-Re-NyT.text" = "RMobile";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "7ib-G6-uTD"; */
+"7ib-G6-uTD.text" = "Settings";
+
+/* Class = "UILabel"; text = "Mobile"; ObjectID = "8ZF-X3-rnB"; */
+"8ZF-X3-rnB.text" = "Mobile";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "9Aa-5y-XQY"; */
+"9Aa-5y-XQY.placeholder" = "Username";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "9g7-cs-pjQ"; */
+"9g7-cs-pjQ.placeholder" = "Confirm Password";
+
+/* Class = "UILabel"; text = "My Shifts"; ObjectID = "Cgq-cn-dbl"; */
+"Cgq-cn-dbl.text" = "My Shifts";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "DJh-bc-aEm"; */
+"DJh-bc-aEm.normalTitle" = "SUBMIT";
+
+/* Class = "UILabel"; text = "RMobile"; ObjectID = "Eu6-xO-uHb"; */
+"Eu6-xO-uHb.text" = "RMobile";
+
+/* Class = "UIButton"; normalTitle = "Change Password"; ObjectID = "Fh5-xe-03H"; */
+"Fh5-xe-03H.normalTitle" = "Change Password";
+
+/* Class = "UILabel"; text = "Change Password"; ObjectID = "G7J-h5-qUU"; */
+"G7J-h5-qUU.text" = "Change Password";
+
+/* Class = "UITextField"; placeholder = "Old Password"; ObjectID = "J2A-HH-3RR"; */
+"J2A-HH-3RR.placeholder" = "Old Password";
+
+/* Class = "UILabel"; text = "Change Password"; ObjectID = "Lc8-6K-ZIh"; */
+"Lc8-6K-ZIh.text" = "Change Password";
+
+/* Class = "UIButton"; normalTitle = "Norsk"; ObjectID = "MRn-Fy-nhm"; */
+"MRn-Fy-nhm.normalTitle" = "Norsk";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "Ntj-tf-7kg"; */
+"Ntj-tf-7kg.placeholder" = "Username";
+
+/* Class = "UIButton"; normalTitle = "Deutsche"; ObjectID = "OKL-Wh-PNh"; */
+"OKL-Wh-PNh.normalTitle" = "Deutsche";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "P6f-qZ-Lem"; */
+"P6f-qZ-Lem.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "RManager"; ObjectID = "SOK-2C-G7u"; */
+"SOK-2C-G7u.text" = "RManager";
+
+/* Class = "UIButton"; normalTitle = "Espanol"; ObjectID = "SlW-1q-7XW"; */
+"SlW-1q-7XW.normalTitle" = "Espanol";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "TZR-ub-Tcq"; */
+"TZR-ub-Tcq.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "E-Mail"; ObjectID = "U6s-bO-pCf"; */
+"U6s-bO-pCf.placeholder" = "E-Mail";
+
+/* Class = "UILabel"; text = "StaffID"; ObjectID = "U9I-Zg-kYN"; */
+"U9I-Zg-kYN.text" = "StaffID";
+
+/* Class = "UILabel"; text = "RMobile"; ObjectID = "Xcm-8b-MYx"; */
+"Xcm-8b-MYx.text" = "RMobile";
+
+/* Class = "UILabel"; text = "Retrieve your password"; ObjectID = "ZjR-TS-waC"; */
+"ZjR-TS-waC.text" = "Retrieve your password";
+
+/* Class = "UIButton"; normalTitle = "LOGIN"; ObjectID = "aUh-SX-wdf"; */
+"aUh-SX-wdf.normalTitle" = "LOGIN";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "bRH-1Y-Cxu"; */
+"bRH-1Y-Cxu.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "English"; ObjectID = "bn4-fO-btY"; */
+"bn4-fO-btY.normalTitle" = "English";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "dr6-BW-Kg4"; */
+"dr6-BW-Kg4.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "iGr-M5-wQE"; */
+"iGr-M5-wQE.text" = "Email";
+
+/* Class = "UILabel"; text = "Your password reset succeeded"; ObjectID = "oHl-Dh-skB"; */
+"oHl-Dh-skB.text" = "Your password reset succeeded";
+
+/* Class = "UITextField"; placeholder = "New Password"; ObjectID = "orO-ra-5g0"; */
+"orO-ra-5g0.placeholder" = "New Password";
+
+/* Class = "UILabel"; text = "Username"; ObjectID = "q9t-YG-LQ4"; */
+"q9t-YG-LQ4.text" = "Username";
+
+/* Class = "UILabel"; text = "Your password has been sent to the email-id"; ObjectID = "sk9-JJ-mlP"; */
+"sk9-JJ-mlP.text" = "Your password has been sent to the email-id";
+
+/* Class = "UILabel"; text = "Clear all saved data and settings"; ObjectID = "tV6-Zb-mgK"; */
+"tV6-Zb-mgK.text" = "Clear all saved data and settings";
+
+/* Class = "UISegmentedControl"; uP5-k8-Sgh.segmentTitles[0] = "DAY"; ObjectID = "uP5-k8-Sgh"; */
+"uP5-k8-Sgh.segmentTitles[0]" = "DAY";
+
+/* Class = "UISegmentedControl"; uP5-k8-Sgh.segmentTitles[1] = "SCHEDULES"; ObjectID = "uP5-k8-Sgh"; */
+"uP5-k8-Sgh.segmentTitles[1]" = "SCHEDULES";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password ?"; ObjectID = "wpi-h4-cnc"; */
+"wpi-h4-cnc.normalTitle" = "Forgot Password ?";
+
+/* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "zSA-O4-2NK"; */
+"zSA-O4-2NK.normalTitle" = "SUBMIT";

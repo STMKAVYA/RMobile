@@ -1,0 +1,230 @@
+/*
+ Localizable.strings
+ RMobileV1
+ 
+ Created by Pavan Kalyan on 3/31/18.
+ Copyright © 2018 Steerminds Pvt Ltd. All rights reserved.
+ */
+
+forgotpassword = "Glemt passord ?";
+dashboard = "RManager";
+
+birthday_list = "bursdagsliste";
+sent = "SENDT";
+received = "MOTTATT";
+
+open_sourcce_licences = "Open Source-lisenser";
+licence_description = "Lisensbeskrivelse";
+
+
+all = "Alle";
+shift_request_sent = "Skiftforespørsel sendt";
+shift_request_received = "bytteforespørsel mottatt";
+swap_request_details = "Vaktbytteforespørsler";
+swap_request_for_approval = "Bytt forespørsel for godkjenning";
+give_away_shift = "Gi bort vakt";
+shift_market = "Vakmarked";
+subscribe = "Abonnere";
+unsubscribe = "Avslutte abonnementet";
+successfully_subscribed = "Vellykket abonnert";
+successfully_unsubscribed ="Vellykket UnSubscribed";
+successfully_subscribed_for_shifts = "Vellykket tegnet for skift";
+successfully_unsubscribed_for_shifts = "Avsluttet på suksess for skift";
+successfully_subscribed_for_leaves = "Vellykket abonnert på blader";
+successfully_unsubscribed_for_leaves = "Opphevet avmeldt for blader";
+successfully_subscribed_for_tasks = "Har lykkes å abonnere på Oppgaver";
+successfully_unsubscribed_for_tasks = "Opphevet avmeldt for Oppgaver";
+are_u_sure_to_unsubscribe = "Er du sikker på å abonnere på alle alternativene?";
+//Dashboard
+welcometext_in_dashboard = "Velkommen";
+tasks = "Oppgaver";
+tasks_subtitle = "Daglig ansvar";
+my_time = "Min tid";
+shift_handling = "Shift-handtering";
+my_leaves = "Fravær";
+leaves_subtitle = "Fri fra jobb";
+my_shifts = "Vakter";
+shifts_subtitle = "Vaktplan";
+tests = "tester";
+tests_subtitle = "Evaluering av framføring";
+function = "funksjon";
+my_team = "Min Avdeling";
+messages = "Meldinger";
+message_subtitle = "Informasjon for deg";
+new_message = "Ny melding :";
+workforce = "Personell på jobb";
+staff_subtitle = "Personell på jobb";
+my_revenue = "Min konto";
+
+outofstore = "Ut av butikkene";
+shiftrequest = "skiftforespørsel";
+deviation = "avvik";
+
+assigntask = "Tildel Oppgaver";
+
+shiftpool = "Vakt pool";
+shiftpoolac = "Er du sikker på å ta vakten";
+shiftpoolacr = "kl";
+accept = "Velg";
+confirmationtext = "Bekreftelse";
+
+
+new_version_available = "Ny versjon tilgjengelig";
+update = "Oppdater";
+remind_me_later = "Minn meg på det senere";
+version_alert_message = "En siste versjon av RManager Workforce er tilgjengelig. Vennligst oppdater appen din til den nyeste versjonen for å unngå at feil oppstår.";
+ignore = "Overse";
+//myShiftsDashboard
+shift_login = "Shift logg inn";
+are_you_sure_to_login_to_the_shift = "Er du sikker på å logge inn på skiftet";
+are_you_sure_to_logout_from_the_shift = "Er du sikker på å logge ut fra skiftet";
+shift_logout = "Shift logout";
+you_are_on_leave = "Du er på permisjon";
+//settings
+setting = "Innstilling";
+change_password = "Bytt passord";
+clear_data = "Logg ut";
+notifications = "Varsler";
+about = "System info";
+shifts = "skift";
+leaves = "blader";
+reminder_for_shifts = "Påminnelse for vakt";
+minutes = "Minutter";
+hour = "Time";
+//Swap Search Details
+swap_search_details = "bytt søkinformasjon";
+employee = "employe";
+date = "DATO";
+select = "---Å velge---";
+please_select_filter_to_search = "Vennligst velg filteret for å søke.";
+//Swap Emplloye Details
+swap_employe_details = "bytt ansattes detaljer";
+//Swap COnfirm Details
+swap_confirm_details = "swap bekreft detaljer";
+you_are_about_to_swap_shift = "Du er i ferd med å bytte skifte";
+do_you_want_to_send_the_request = "Vil du sende forespørselen?";
+//Swap Request Details
+swap_request_details_nav_title = "bytteforespørsel detaljer";
+filter = "Filter";
+//Staff Information
+staff_information = "Personell på jobb";
+//ProfileInfo
+Profile = "Min profil";
+email = "E-post";
+mobile = "Mobil";
+staff_id = "Ansatt ID";
+//revenue view controller
+current = "NÅVÆRENDE";
+previous = "TIDLIGERE";
+year = "ÅR";
+week = "Uke";
+month = "Måned";
+Year = "År";
+todays = "dagens";
+revenue_of_the_year = "Årets inntekter";
+revenue = "inntekter";
+awaiting_data = "Venter på data ...";
+mon = "mandag";
+tue = "tirsdag";
+wed = "onsdag";
+thu = "Torsdag";
+fri = "fredag";
+sat = "lørdag";
+sun = "søndag";
+//mytime
+SHIFTS = "Vakter";
+REVIEW = "ANMELDELSE";
+hours_today = "Timer i dag : ";
+hours_this_month = "Timer denne måneden : ";
+//optionsVC
+Swap = "Bytte";
+Market = "Legg til i marked";
+Give_away = "Gi bort";
+//checkInVC
+check_in = "Innsjekking";
+check_out = "Sjekk ut";
+successfully_checkedin = "Vellykket sjekket inn i skiftet";
+successfully_checkedout = "Vellykket sjekket ut fra skiftet";
+checked_in = "Sjekket inn";
+submit = "Sende inn";
+rmw_needs_your_location = "RManager Workforce trenger din nåværende beliggenhet for å fortsette med innsjekking / utsjekking.";
+do_you_want_to_allow_location = "Vil du tillate plasseringstjeneste?";
+comment = "Kommentar";
+forgot_to_log_in = "Glemt å logge inn";
+too_late = "For sen";
+out_of_the_office = "Ute av kontoret";
+other = "Annet";
+forgot_to_log_out = "Glemt å logge ut";
+got_sick = "Ble syk";
+over_time = "Overtid";
+//ManagerSwapRequest
+approved_this_swap = "Du har godkjent denne bytteforespørselen";
+rejected_this_swap = "Du har avvist denne bytteforespørselen";
+//AddPhotoByCamera/PhotoLibrary
+camera_access_title = "Workforce Har ikke tilgang til kameraet ditt.";
+camera_access_message = "For å aktivere tilgang, trykk på innstillinger og slå på Kamera.";
+photo_access_title = "Workforce Har ikke tilgang til bildene dine.";
+photo_access_message = "For å aktivere tilgang trykker du på innstillinger og slår på Photo Library Access.";
+
+app_name = "RMobile";
+welcome = "Velkommen til RMobile";
+please_sign_in_access = "Vennligst logg inn for tilgang";
+username = "Brukernavn";
+password = "Passord";
+login = "Innlogget";
+day = "Dag";
+shift_dashboard = "dashbord";
+schedules = "Vaktplan";
+please_swipe_up_get_schedule = "Vennligst sveip opp for å få neste dagsplaner";
+
+
+upload_profile_pic ="Last opp profilbilde";
+upload = "Laste opp";
+cancel = "Avbryt";
+please_wait = "Vennligst vent....";
+please_enter_new_password_in_correct_format = "Vennligst skriv inn nytt passord i riktig format";
+please_check_username_and_password = "Vennligst sjekk brukernavn og passord";
+please_enter_valid_password = "Vennligst skriv inn gyldig passord";
+retry = "Prøv på nytt";
+close_App = "Lukk App";
+reset_your_password = "Tilbakestill passordet ditt";
+yes = "Ja";
+no = "Nei";
+ok = "ok";
+retrieve_your_password = "Hent passordet ditt";
+invalid_email_please_check = "Ugyldig e-postadresse, vennligst sjekk";
+username_and_password_required = "Brukernavn og e-post er påkrevd";
+//slow_Internet_connection_please_try_again = "Sakte Internettforbindelse, prøv igjen!";
+
+//no_Internet_connection_unableto_contact_server = "ingen Internett-tilkobling kan ikke kontakte serveren";
+Unable_to_contact_server_at_the_moment_please_try_after_some_time = "Kan ikke kontakte server for øyeblikket, vennligst prøv etter en stund";
+new_password_and_confirm_password_is_not_matching = "Nytt passord og bekreft passord stemmer ikke overens";
+Password_must_be_min_characters_one_upper_char_one_lower_char_one_number_and_one_special_char = "Passordet må være min 6 tegn, en øvre karbon, en lavere karbon, ett tall og en spesialkarakter";
+no_shifts_for_the_day = "Ingen skift for dagen";
+no_shifts_for_the_week = "Ingen skift for uken";
+last_sync_on = "Siste synkronisering på";
+loading = "lasting";
+session_expired = "Sesjon utløpt !";
+add_photo = "Legg til bildet !";
+take_photo = "Ta bilde";
+choose_from_library = "Velg fra bibliotek";
+error = "Feil";
+camera_not_found = "Kamera ikke funnet";
+time_out_error = "Time-out-feil";
+click_for_more = "Klikk for mer";
+your_password_send_to_email = "Ditt passord har blitt sendt til e-post-ID";
+old_password = "Gammelt passord";
+new_password = "Nytt passord";
+confirm_password = "bekreft passord";
+Erase_the_data_from_rmanager = "Viske ut RManager innstillinger og lagrede data?";
+invalid_username_pwd_please_check = "ugyldige legitimasjon";
+
+shift_details = "skift detaljer";
+
+temperature = "Temperatur";
+pressure = "Press";
+humidity = "Luftfuktighet";
+
+no_messages = "Ingen meldinger fra nå";
+see_all_birthdays = "Se alle bursdager";
+no_data_message = "Vi fant ikke noe å vise her.";

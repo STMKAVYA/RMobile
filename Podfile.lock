@@ -1,0 +1,26 @@
+PODS:
+  - Charts (3.2.2):
+    - Charts/Core (= 3.2.2)
+  - Charts/Core (3.2.2)
+  - DropDown (2.3.12)
+  - FSCalendar (2.8.0)
+
+DEPENDENCIES:
+  - Charts
+  - DropDown
+  - FSCalendar
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Charts
+    - DropDown
+    - FSCalendar
+
+SPEC CHECKSUMS:
+  Charts: f69cf0518b6d1d62608ca504248f1bbe0b6ae77e
+  DropDown: 0bcc278799ec11a3d34ce1aac9367fbbaf5423d9
+  FSCalendar: 3a5ed3636e2ba1b83ebebfcf0c2603105a6f5efe
+
+PODFILE CHECKSUM: c5262af44a3b22089221801365202524d304e0f9
+
+COCOAPODS: 1.6.1

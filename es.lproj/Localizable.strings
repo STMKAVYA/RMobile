@@ -1,0 +1,228 @@
+/* 
+
+  Localizable.strings
+  RMobileV1
+
+  Created by Pavan Kalyan on 3/30/18.
+  Copyright © 2018 Steerminds Pvt Ltd. All rights reserved.
+*/
+forgotpassword = "Se te olvidó tu contraseña ?";
+dashboard = "RManager";
+
+birthday_list = "lista de cumpleaños";
+sent = "EXPEDIDO";
+received = "RECIBIDO";
+
+open_sourcce_licences = "Licencias de código abierto";
+licence_description = "Descripción de licencia";
+
+
+all = "Todas";
+shift_request_sent = "solicitud de turno enviada";
+shift_request_received = "solicitud de turno recibida";
+swap_request_details = "Cambiar detalles de solicitud";
+swap_request_for_approval = "Solicitud de permuta de aprobación";
+give_away_shift = "regalar turno";
+shift_market = "mercado de cambio";
+subscribe = "Suscribir";
+unsubscribe = "Anular suscripción";
+successfully_subscribed = "Suscrito con éxito";
+successfully_unsubscribed ="Anulado exitosamente";
+successfully_subscribed_for_shifts = "Suscrito con éxito para turnos";
+successfully_unsubscribed_for_shifts = "Anulado exitosamente para turnos";
+successfully_subscribed_for_leaves = "Suscrito con éxito para las hojas";
+successfully_unsubscribed_for_leaves = "Suspendido exitosamente para las hojas";
+successfully_subscribed_for_tasks = "Suscrito con éxito para tareas";
+successfully_unsubscribed_for_tasks = "Cancelar la suscripción exitosamente para tareas";
+are_u_sure_to_unsubscribe = "¿Estás seguro de cancelar la suscripción de todas las opciones?";
+//Dashboard
+welcometext_in_dashboard = "Bienvenido";
+tasks = "Tareas";
+tasks_subtitle = "Responsabilidades diarias";
+my_time = "mi tiempo";
+shift_handling = "Shift-handtering";
+
+outofstore = "Out of store";
+shiftrequest = "Shift request";
+deviation = "Deviation";
+
+my_leaves = "ausencia";
+leaves_subtitle = "Fuera del trabajo";
+my_shifts = "turnos";
+shifts_subtitle = "Horario de trabajo";
+tests = "pruebas";
+tests_subtitle = "Evaluación del desempeño";
+function = "función";
+my_team = "mi equipo";
+messages = "mensajes";
+message_subtitle = "Información para ti";
+new_message = "Nuevo mensaje :";
+workforce = "personal";
+staff_subtitle = "Personal en el trabajo";
+my_revenue = "mis ingresos";
+assigntask = "Assign";
+shiftpool = "Shift pool";
+shiftpoolac = "Are you sure to accept the shift schedule on ";
+shiftpoolacr = "at";
+accept = "Accept";
+confirmationtext = "Confirmation";
+
+new_version_available = "Nueva versión disponible";
+update = "Actualizar";
+remind_me_later = "Recuérdame más tarde";
+version_alert_message = "Una última versión de RManager Workforce está disponible. actualice su aplicación a la última versión para evitar que se produzcan errores.";
+ignore = "Ignorar";
+//myShiftsDashboard
+shift_login = "Shift login";
+are_you_sure_to_login_to_the_shift = "¿Estás seguro de iniciar sesión en el turno?";
+are_you_sure_to_logout_from_the_shift = "¿Estás seguro de cerrar sesión desde el turno?";
+shift_logout = "Shift logout";
+you_are_on_leave = "Estas de permiso";
+//Settings
+setting = "Ajuste";
+change_password = "Cambia la contraseña";
+clear_data = "Borrar todos los datos y configuraciones guardados";
+notifications = "Notificaciones";
+about = "acerca de";
+shifts = "Turnos";
+leaves = "Hojas";
+reminder_for_shifts = "Recordatorio para turnos";
+minutes = "Minutos";
+hour = "Hora";
+//Swap Search Details
+swap_search_details = "intercambiar detalles de búsqueda";
+employee = "Empleado";
+date = "FECHA";
+select = "---Seleccionar---";
+please_select_filter_to_search = "Por favor seleccione el filtro para buscar.";
+//Swap Emplloye Details
+swap_employe_details = "intercambiar detalles de empleados";
+//Swap COnfirm Details
+swap_confirm_details = "intercambio confirmar detalles";
+you_are_about_to_swap_shift = "Estás a punto de cambiar turno";
+do_you_want_to_send_the_request = "¿Quieres enviar la solicitud?";
+//Swap Request Details
+swap_request_details_nav_title = "detalles de solicitud de intercambio";
+filter = "Filtrar";
+//Staff Information
+staff_information = "información del personal";
+//ProfileInfo
+Profile = "Mi perfil";
+email = "Email";
+mobile = "Móvil";
+staff_id = "Identificación del personal";
+//revenue view controller
+current = "CORRIENTE";
+previous = "ANTERIOR";
+year = "AÑO";
+week = "Semana";
+month = "Mes";
+Year = "Año";
+todays = "De hoy";
+revenue_of_the_year = "Ingresos del año";
+revenue = "Ingresos";
+awaiting_data = "Esperando datos ...";
+mon = "lunes";
+tue = "martes";
+wed = "miércoles";
+thu = "jueves";
+fri = "viernes";
+sat = "sábado";
+sun = "domingo";
+//mytime
+SHIFTS = "CAMBIOS";
+REVIEW = "REVISIÓN";
+hours_today = "Horas de hoy : ";
+hours_this_month = "Horas este mes : ";
+//optionsVC
+Swap = "Intercambiar";
+Market = "Añadir al mercado";
+Give_away = "Regalar";
+//checkInVC
+check_in = "Registrarse";
+check_out = "Revisa";
+successfully_checkedin = "Registrado con éxito en el turno";
+successfully_checkedout = "Salido con éxito desde el turno";
+checked_in = "Facturado";
+submit = "Enviar";
+rmw_needs_your_location = "RManager Workforce necesita su ubicación actual para proceder con el check-in / check-out.";
+do_you_want_to_allow_location = "¿Quieres permitir el servicio de localización?";
+comment = "Comentario";
+forgot_to_log_in = "Se olvidó de iniciar sesión";
+too_late = "Demasiado tarde";
+out_of_the_office = "Fuera de la oficina";
+other = "otro";
+forgot_to_log_out = "Olvidé mi sesión";
+got_sick = "Se enfermó";
+over_time = "horas extraordinarias";
+//ManagerSwapRequest
+approved_this_swap = "Has aprobado con éxito esta solicitud de intercambio.";
+rejected_this_swap = "Has rechazado con éxito esta solicitud de intercambio";
+//AddPhotoByCamera/PhotoLibrary
+camera_access_title = "Workforce No tiene acceso a su cámara.";
+camera_access_message = "Para habilitar el acceso, toque la configuración y encienda la cámara.";
+photo_access_title = "Workforce No tiene acceso a sus fotos.";
+photo_access_message = "Para habilitar el acceso, toque la configuración y active el acceso a la biblioteca de fotos.";
+
+app_name = "RMobile";
+welcome = "Bienvenido a RMobile";
+please_sign_in_access = "Inicia sesión para acceder";
+username = "Nombre de usuario";
+password = "Contraseña";
+login = "Iniciar sesión";
+day = "Día";
+shift_dashboard = "Tablero";
+schedules = "Horarios";
+please_swipe_up_get_schedule = "Desliza hacia arriba para ver los horarios del día siguiente";
+
+
+upload_profile_pic ="Subir foto de perfil";
+upload = "Subir";
+cancel = "Cancelar";
+please_wait = "Por favor espera....";
+please_enter_new_password_in_correct_format = "Por favor ingrese una nueva contraseña en el formato correcto";
+please_check_username_and_password = "Por favor, compruebe nombre de usuario y contraseña";
+please_enter_valid_password = "Por favor ingrese una contraseña válida";
+retry = "Rever";
+close_App = "Cerrar app";
+reset_your_password = "Restablecer su contraseña";
+yes = "sí";
+no = "no";
+ok = "De acuerdo";
+retrieve_your_password = "Recupera tu contraseña";
+invalid_email_please_check = "Dirección de correo electrónico no válida, compruebe";
+username_and_password_required = "Nombre de usuario y correo electrónico es obligatorio";
+//slow_Internet_connection_please_try_again = "Conexión lenta a Internet, inténtelo de nuevo.";
+
+//no_Internet_connection_unableto_contact_server = "ninguna conexión a Internet no puede contactar al servidor";
+Unable_to_contact_server_at_the_moment_please_try_after_some_time = "No se puede contactar al servidor en este momento, intente después de un tiempo";
+new_password_and_confirm_password_is_not_matching = "Nueva contraseña y confirmar contraseña no coincide";
+Password_must_be_min_characters_one_upper_char_one_lower_char_one_number_and_one_special_char = "La contraseña debe tener un mínimo de 6 caracteres, una superior, una inferior, otra y una especial";
+no_shifts_for_the_day = "No hay turnos para el día";
+no_shifts_for_the_week = "Sin turnos para la semana";
+last_sync_on = "Última sincronización en";
+loading = "cargando";
+session_expired = "Sesión expirada !";
+add_photo = "Añadir foto !";
+take_photo = "Tomar foto";
+choose_from_library = "Elige de la biblioteca";
+error = "Error";
+camera_not_found = "Cámara no encontrada";
+time_out_error = "Error de tiempo de espera";
+click_for_more = "Haga clic para más";
+your_password_send_to_email = "Su contraseña ha sido enviada a la dirección de correo electrónico";
+old_password = "Contraseña anterior";
+new_password = "Nueva contraseña";
+confirm_password = "Confirmar contraseña";
+Erase_the_data_from_rmanager = "Borrar RManager configuraciones y datos guardados?";
+invalid_username_pwd_please_check = "credenciales no válidas";
+
+shift_details = "detalles del cambio";
+
+temperature = "Temperatura";
+pressure = "Presión";
+humidity = "Humedad";
+
+no_messages = "No hay mensajes a partir de ahora";
+see_all_birthdays = "Ver todos los cumpleaños";
+no_data_message = "No encontramos nada que mostrar aquí.";

@@ -1,0 +1,230 @@
+/* 
+
+  Localizable.strings
+  RMobileV1
+
+  Created by Pavan Kalyan on 3/30/18.
+  Copyright © 2018 Steerminds Pvt Ltd. All rights reserved.
+*/
+forgotpassword = "Forgot password ?";
+dashboard = "RManager";
+
+birthday_list = "birthday list";
+sent = "SENT";
+received = "RECEIVED";
+
+shiftpool = "Shift pool";
+shiftpoolac = "Are you sure to accept the shift schedule on ";
+shiftpoolacr = "at";
+accept = "Accept";
+confirmationtext = "Confirmation";
+
+outofstore = "Out of store";
+shiftrequest = "Shift request";
+deviation = "Deviation";
+
+open_sourcce_licences = "Open-Source Licences";
+licence_description = "Licence Description";
+
+all = "All";
+shift_request_sent = "shift request sent";
+shift_request_received = "shift request received";
+swap_request_details = "Swap request details";
+swap_request_for_approval = "Swap request for approval";
+give_away_shift = "give away shift";
+shift_market = "shift market";
+subscribe = "Subscribe";
+unsubscribe = "UnSubscribe";
+successfully_subscribed = "Successfully Subscribed";
+successfully_unsubscribed ="Successfully UnSubscribed";
+successfully_subscribed_for_shifts = "Successfully subscribed for shifts";
+successfully_unsubscribed_for_shifts = "successfully unsubscribed for shifts";
+successfully_subscribed_for_leaves = "Successfully subscribed for leaves";
+successfully_unsubscribed_for_leaves = "Successfully unsubscribed for leaves";
+successfully_subscribed_for_tasks = "Successfully subscribed for tasks";
+successfully_unsubscribed_for_tasks = "Successfully unsubscribed for tasks";
+are_u_sure_to_unsubscribe = "Are you sure to unsubscribe all the options ?";
+//Dashboard
+welcometext_in_dashboard = "welcome";
+tasks = "Tasks";
+tasks_subtitle = "Daily Responsibilities";
+my_time = "My time";
+shift_handling = "Shift handling";
+my_leaves = "Absence";
+leaves_subtitle = "Off Work";
+my_shifts = "Shifts";
+shifts_subtitle = "Work Schedule";
+tests = "tests";
+tests_subtitle = "Performance Evaluation";
+function = "function";
+my_team = "My team";
+messages = "Messages";
+message_subtitle = "Information for you";
+new_message = "New Message :";
+workforce = "workforce";
+assigntask = "Assign task";
+staff_subtitle = "Personnel at Work";
+my_revenue = "My revenue";
+new_version_available = "New version available";
+update = "Update";
+//remind_me_later = "Remind me later";
+version_alert_message = "A latest version of RManager Workforce is available. please update your app to latest version to prevent errors from occurring.";
+ignore = "Ignore";
+//myShiftsDashboard
+shift_login = "Shift login";
+are_you_sure_to_login_to_the_shift = "Are you sure to login to the shift";
+are_you_sure_to_logout_from_the_shift = "Are you sure to logout from the shift";
+shift_logout = "Shift logout";
+you_are_on_leave = "You are on leave";
+//Settings
+setting = "Settings";
+change_password = "Change password";
+clear_data = "Clear all saved data and settings";
+notifications = "Notifications";
+about = "About";
+shifts = "Shifts";
+leaves = "leaves";
+reminder_for_shifts = "Reminder for shifts";
+minutes = "Minutes";
+hour = "Hour";
+//Swap Search Details
+swap_search_details = "swap search details";
+employee = "Employee";
+date = "DATE";
+select = "---Select---";
+please_select_filter_to_search = "Please select the filter to search.";
+//Swap Emplloye Details
+swap_employe_details = "swap employee details";
+//Swap COnfirm Details
+swap_confirm_details = "swap confirm details";
+you_are_about_to_swap_shift = "You are about to swap shift";
+do_you_want_to_send_the_request = "Do you want to send the request?";
+//Swap Request Details
+swap_request_details_nav_title = "swap request details";
+filter = "Filter";
+//Staff Information
+staff_information = "staff information";
+//ProfileInfo
+Profile = "My Profile";
+email = "Email";
+mobile = "Mobile";
+staff_id = "StaffID";
+//revenue view controller
+current = "CURRENT";
+previous = "PREVIOUS";
+year = "YEAR";
+week = "Week";
+month = "Month";
+Year = "Year";
+todays = "Today's";
+revenue_of_the_year = "Revenue of the year";
+revenue = "Revenue";
+awaiting_data = "Awaiting data...";
+mon = "Mon";
+tue = "Tue";
+wed = "Wed";
+thu = "Thu";
+fri = "Fri";
+sat = "Sat";
+sun = "Sun";
+//mytime
+SHIFTS = "SHIFTS";
+REVIEW = "REVIEW";
+hours_today = "Hours today : ";
+hours_this_month = "Hours this month : ";
+//optionsVC
+Swap = "Swap";
+Market = "Add to market";
+Give_away = "Give away";
+//checkInVC
+check_in = "Check-In";
+check_out = "Check-Out";
+successfully_checkedin = "Successfully Checked-In to the Shift";
+successfully_checkedout = "Successfully Checked-Out from the Shift";
+checked_in = "Checked-In";
+submit = "SUBMIT";
+rmw_needs_your_location = "RManager Workforce need your current location to proceed with check-In/check-Out.";
+comment = "Comment";
+forgot_to_log_in = "Forgot to log in";
+too_late = "Too late";
+out_of_the_office = "Out of the office";
+other = "Other";
+forgot_to_log_out = "Forgot to log out";
+got_sick = "Got sick";
+over_time = "Overtime";
+do_you_want_to_allow_location = "Do you want to allow Location service?";
+//ManagerSwapRequest
+approved_this_swap = "You have successfully approved this swap request";
+rejected_this_swap = "You have successfully rejected this swap request";
+//AddPhotoByCamera/PhotoLibrary
+camera_access_title = "Workforce does not have access to your camera.";
+camera_access_message = "To enable access, tap settings and turn on Camera.";
+photo_access_title = "Workforce does not have access to your photos.";
+photo_access_message = "To enable access, tap settings and turn on Photo Library Access.";
+
+app_name = "RMobile";
+welcome = "Welcome to RMobile";
+please_sign_in_access = "Please sign in for access";
+username = "Username";
+password = "Password";
+login = "Login";
+day = "Day";
+shift_dashboard = "DASHBOARD";
+schedules = "SCHEDULES";
+please_swipe_up_get_schedule = "Please swipe up to get next day schedules";
+
+
+upload_profile_pic ="Upload profile pic";
+upload = "Upload";
+cancel = "Cancel";
+please_wait = "Please wait....";
+please_enter_new_password_in_correct_format = "Please enter new password in correct format";
+please_check_username_and_password = "Please check username and password";
+please_enter_valid_password = "Please enter valid password";
+retry = "Retry";
+close_App = "Close App";
+reset_your_password = "Reset your password";
+yes = "Yes";
+no = "No";
+ok = "Ok";
+retrieve_your_password = "Retrieve your password";
+invalid_email_please_check = "Invalid email address please check";
+username_and_password_required = "UserName & Email is required";
+//slow_Internet_connection_please_try_again = "Slow Internet connection please try again !";
+
+//no_Internet_connection_unableto_contact_server = "No Internet Connection Unable to Contact Server";
+//Unable_to_contact_server_at_the_moment_please_try_after_some_time = "Unable to contact server at the moment, please try after some time";
+//new_password_and_confirm_password_is_not_matching = "New Password and Confirm Password is Not Matching";
+//Password_must_be_min_characters_one_upper_char_one_lower_char_one_number_and_one_special_char = "Password must be min 6 characters, one upper char, one lower char, one number and one special char";
+
+your_password_send_to_email = "Password sent to your registered E-mail address";
+Unable_to_contact_server_at_the_moment_please_try_after_some_time = "Unable to contact server at the moment, please try after some time";
+new_password_and_confirm_password_is_not_matching = "New Password and Confirm Password is Not Matching";
+Password_must_be_min_characters_one_upper_char_one_lower_char_one_number_and_one_special_char = "Password must be min 6 characters,one uooer char, one lowwer char, one number and one special char";
+no_shifts_for_the_day = "No shifts for the day";
+no_shifts_for_the_week = "No shifts for the week";
+last_sync_on = "Last Sync On";
+loading = "Loading";
+session_expired = "Session expired !";
+add_photo = "Add Photo !";
+take_photo = "Take Photo";
+choose_from_library = "Choose From Library";
+error = "Error";
+camera_not_found = "Camera Not Found";
+time_out_error = "Time out Error";
+click_for_more = "Click for more";
+old_password = "Old password";
+new_password = "New Password";
+confirm_password = "Confirm Password";
+Erase_the_data_from_rmanager = "Erase RManager settings & saved data ?";
+invalid_username_pwd_please_check = "Invalid Credentials";
+
+shift_details = "shift details";
+
+temperature = "Temperature";
+pressure = "Pressure";
+humidity = "Humidity";
+
+no_messages = "No Messages as of now";
+see_all_birthdays = "See all birthdays";
+no_data_message = "We didn't find anything to show here.";
